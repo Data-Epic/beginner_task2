@@ -9,7 +9,7 @@ main6 = "Life needs to be easy"
 bool = True
 bool2 = False
 import random
-b=(random.randrange(1,20))
-print(b)
+a=(random.randrange(1,20))
+print(a)
 
 
